@@ -1,8 +1,8 @@
 # AI-Based Fitness Classification
 
-**Course:** IT2011 – Artificial Intelligence and Machine Learning
+**Module:** IT2011 – Artificial Intelligence and Machine Learning
 **Institution:** Sri Lanka Institute of Information Technology (SLIIT)
-**Group:** Group 2
+
 
 ## Project Overview
 
